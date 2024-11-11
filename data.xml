@@ -1,0 +1,44 @@
+<menjar>
+    <grup>
+      <nom>Hamburgueses</nom>
+      <plat>
+        <nom>Hamburguesa Clàssica</nom>
+        <img>img/bocadillo-carta.jpg</img>
+        <descripcio>Carne de res, enciam, tomàquet i salsa especial.</descripcio>
+        <preu>9€</preu>
+      </plat>
+      <plat>
+        <nom>Hamburguesa Vegana</nom>
+        <img>img/bocadillo-vegano.jpg</img>
+        <descripcio>Hamburguesa de tofu, tomàquet, alvocat i salsa de tahini.</descripcio>
+        <preu>10€</preu>
+      </plat>
+    </grup>
+  
+    <grup>
+      <nom>Pizzes</nom>
+      <plat>
+        <nom>Pizza Margarita</nom>
+        <img>img/pizza.jpg</img>
+        <descripcio>Tomate, mozzarella i albahaca fresca.</descripcio>
+        <preu>12€</preu>
+      </plat>
+      <plat>
+        <nom>Pizza Quattro Stagioni</nom>
+        <img>img/pizza-quattro.png</img>
+        <descripcio>Tomate, mozzarella, pernil, xampinyons i olives.</descripcio>
+        <preu>15€</preu>
+      </plat>
+    </grup>
+  
+    <grup>
+      <nom>Pastas</nom>
+      <plat>
+        <nom>Pasta Fresca</nom>
+        <img>img/pasta-fresca-carta.jpg</img>
+        <descripcio>Pasta casera amb salsa de tomàquet i albahaca.</descripcio>
+        <preu>10€</preu>
+      </plat>
+    </grup>
+  </menjar>
+  
